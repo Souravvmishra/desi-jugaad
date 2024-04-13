@@ -1,0 +1,5 @@
+pytelegrambotapi
+pillow
+englisttohindi
+flask
+threading
