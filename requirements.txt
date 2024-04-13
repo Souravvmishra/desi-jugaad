@@ -3,3 +3,4 @@ pillow
 englisttohindi
 flask
 threading
+gunicorn
